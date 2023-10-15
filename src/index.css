@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @import url('https://fonts.googleapis.com/css2?family=Happy+Monkey&family=Lato:ital,wght@0,400;1,300&family=Orbitron:wght@400;800&display=swap'); */
+
+body {
+background-color: black;
+  font-family: 'Lato', sans-serif;
+}
